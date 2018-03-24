@@ -1,4 +1,4 @@
-package com.miga.springcloud.lab5sentenceserver.controller;
+package com.miga.springcloud.lab6sentenceserver.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.miga.springcloud.lab5sentenceserver;
+package com.miga.springcloud.lab6sentenceserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Lab5SentenceServerApplicationTests {
+public class Lab6SentenceServerApplicationTests {
 
     @Test
     public void contextLoads() {

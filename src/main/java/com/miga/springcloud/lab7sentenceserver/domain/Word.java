@@ -1,4 +1,4 @@
-package com.miga.springcloud.lab6sentenceserver.domain;
+package com.miga.springcloud.lab7sentenceserver.domain;
 
 /**
  * 'Word' object is nicely represented in JSON over a regular String.
